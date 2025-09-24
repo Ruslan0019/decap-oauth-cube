@@ -1,0 +1,8 @@
+{
+  "name": "decap-oauth-cube",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "netlify-cms-oauth-provider-node": "^0.4.0"
+  }
+}
